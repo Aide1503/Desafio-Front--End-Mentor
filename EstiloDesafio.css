@@ -1,0 +1,78 @@
+body{    
+    background-color: hsl(257, 40%, 49%);
+    height: 100vh;
+    margin: 0; 
+    overflow: hidden;
+      
+}
+
+.fundo{
+    position: absolute;
+    width: 1318px;
+    margin: 0;
+}
+
+.logo{        
+    position: absolute;
+    top: 75px;
+    left: 60px;
+}
+
+.foto{
+    width: 600px; 
+    height: 400;   
+    position: absolute;
+    top: 195px;
+    left: 70px;
+    right: 70px;
+    bottom: 60px;
+}
+
+.TítuloeTexto{
+    position: absolute;
+    top: 250px;
+    left: 830px;  
+    font-family: 'Poppins', sans-serif;
+    color: white;
+}
+
+.TítuloeTexto h1{
+    font-size: 600px; 
+}
+
+.TítuloeTexto p{
+    font-weight: 400px;
+}
+
+.botao{    
+    position: absolute;
+    top: 420px;
+    left: 825px;
+    
+    
+}
+
+button{
+    padding: 14px 50px;
+    border-radius: 25px;
+    background-color:white ;
+    border: 1px solid black;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    font-size: 16px;
+    color:hsl(257, 40%, 49%); 
+
+}
+
+.Icones{
+    position: absolute;
+    top: 620px;
+    left: 1150px;
+    color: white;   
+}    
+    
+a{
+    text-decoration: none;
+}
+
+    
